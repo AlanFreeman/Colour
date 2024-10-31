@@ -8,4 +8,4 @@ Now edit runCol. The main switch statement controls the analysis. You just ran c
 
 All cases set metadata used by stream, which executes the analyses. See Guide to stream and streamTute.m for short tutorials on stream.
 
-Colour.zip contains code and data for setting model parameters and for running the ratio-of-Gaussians (ROG) model. After unzipping, run setCol to fit the ROG to empirical data.
+The file setCol contains code for setting model parameters and for running the ratio-of-Gaussians (ROG) model. After unzipping the data file Colour.zip, run setCol to fit the ROG to empirical data.
